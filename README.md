@@ -1,0 +1,2 @@
+# cdn
+gblog cnd
